@@ -1,0 +1,7 @@
+PromiTone_env/
+./PromiTone_env/*
+./PromiTone_env
+
+./lightning_logs/*
+./lightning_logs/
+lightning_logs/
